@@ -6,9 +6,11 @@ para ejecutar el proyecto  python manage.py runserver
 
 Para enviar un Post es necerario tener un Token
 lo pueden generar aqui, creando un usuario
+
 http://localhost:8000/rest-auth/registration/
 
 y luego hacer login para obtener el token
+
 http://localhost:8000/rest-auth/login/
 
 para poder enviar un post dejo un ejemplo dentro de la carpeta Api
