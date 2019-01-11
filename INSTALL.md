@@ -16,7 +16,7 @@ http://localhost:8000/rest-auth/login/
 para poder enviar un post dejo un ejemplo dentro de la carpeta Api
 el archivo llamado request.py
 
-este es el url para enviar post
+este es el url para el servicio
 http://127.0.0.1:8000/api/v1/shorturl/
 
 
